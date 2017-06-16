@@ -1,0 +1,11 @@
+/*font-family: 'Open Sans', sans-serif;
+font-family: 'Cookie', cursive;*/
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+body{
+	background-image: url(../img/instagram-background.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
